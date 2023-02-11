@@ -33,3 +33,4 @@ while True:
             print("Your guess is too small. Please try again.")
             guessRange = guessRange[guessRange.index(guess+1):]
             continue
+# code exercise by santorini19970530
