@@ -1,4 +1,4 @@
-# guess_number.py
+# guessing_number.py
 # system randomally define a number between 1 and 100
 # let user guess the number
 # if user's guess is out of range, warning will be issued (only three out-of-range guess allowed)
